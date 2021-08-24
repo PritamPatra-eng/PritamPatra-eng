@@ -5,4 +5,4 @@
 - 📫 How to reach me patrapritam95@gmail.com
 
 I am a beginner level Java developer pursuing to work on any kind of development to gain 
-my In depth knowledge on java
+in-depth knowledge in java to live my vision.

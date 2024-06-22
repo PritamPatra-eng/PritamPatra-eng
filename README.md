@@ -4,5 +4,4 @@
 - 💞️ I’m looking to collaborate on any kind of java development project 
 - 📫 How to reach me patrapritam95@gmail.com
 
-I am a beginner level Java developer pursuing to work on any kind of development to gain 
-in-depth knowledge in java to live my vision.
+Experinced Java Microservice Developer with 3 years of experience with Java, Spring boot, various design pattern to leverage the code complexity. Working experince on AWS, Azure and other DevOps tools to minimize the application development and deployment process in real time application.
